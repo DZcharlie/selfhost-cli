@@ -1,4 +1,4 @@
-click
-boto3
-rich
-setuptools
+click>=8.0.0
+boto3>=1.26.0
+rich>=10.0.0
+setuptools>=65.0.0
